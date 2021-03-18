@@ -23,6 +23,6 @@ public class SampleController {
         } else {
             requestTotal.labels("error").inc();
         }
-        return "What is CI/CD? This is probably one of the most frequently asked questions in any discussion of DevOps. Amid the rise and rise of CI/CD, it’s crucial to understand the process and then choose the right set of tools to fulfill technical requirements. In this article, I will provide insights into this notion, their benefits and how these practices are performed.";
+        return "What is CI/CD? ";
     }
 }
