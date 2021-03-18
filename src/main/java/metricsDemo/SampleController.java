@@ -23,6 +23,6 @@ public class SampleController {
         } else {
             requestTotal.labels("error").inc();
         }
-        return "What is CI/CD? ";
+        return "This is test for Demo ";
     }
 }
