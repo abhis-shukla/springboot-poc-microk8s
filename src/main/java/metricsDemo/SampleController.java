@@ -23,7 +23,6 @@ public class SampleController {
         } else {
             requestTotal.labels("error").inc();
         }
-        return "A CI/CD pipeline is a path for delivering a unit of change that starts from development to delivery. It helps organization to  automate steps in their software delivery process and allows application development teams to release software quickly.
- ";
+        return "ion to  automate steps in their software delivery process and allows application development teams to release software ";
     }
 }
