@@ -23,6 +23,6 @@ public class SampleController {
         } else {
             requestTotal.labels("error").inc();
         }
-        return "This is a dockerised pipeline for Web application deployment ";
+        return "This Demo is for AWS COE ";
     }
 }
