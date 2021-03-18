@@ -23,6 +23,6 @@ public class SampleController {
         } else {
             requestTotal.labels("error").inc();
         }
-        return "ion to  automate steps in their software delivery process and allows application development teams to release software ";
+        return "This is a dockerised pipeline for Web application deployment ";
     }
 }
