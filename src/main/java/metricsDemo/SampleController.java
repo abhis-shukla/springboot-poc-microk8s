@@ -23,6 +23,6 @@ public class SampleController {
         } else {
             requestTotal.labels("error").inc();
         }
-        return "This Demo is for AWS COE ";
+        return "This is a internal demo for tmmorow prepration ";
     }
 }
