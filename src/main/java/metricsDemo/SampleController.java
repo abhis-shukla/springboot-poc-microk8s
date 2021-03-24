@@ -23,6 +23,6 @@ public class SampleController {
         } else {
             requestTotal.labels("error").inc();
         }
-        return "This is a internal demo for tmmorow prepration ";
+        return "This is a web application for CI/CD demo ";
     }
 }
