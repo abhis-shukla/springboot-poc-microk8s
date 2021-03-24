@@ -1,4 +1,4 @@
-#it is a serverless CICD DEMO
+#This demo is for CI/CD serverless making lambda changes
 import json
 import boto3
 import csv
