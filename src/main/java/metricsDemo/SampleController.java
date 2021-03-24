@@ -23,6 +23,6 @@ public class SampleController {
         } else {
             requestTotal.labels("error").inc();
         }
-        return "This is a web application for CI/CD demo ";
+        return "Demo for Dockerized Pipeline ";
     }
 }
